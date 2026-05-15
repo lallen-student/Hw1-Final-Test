@@ -1,0 +1,9 @@
+---
+title: "Homework 1 DACSS 690v"
+author: "Lafaith Allen-Delice"
+format: 
+  html: 
+    embed-resources: true
+    self-contained-math: true
+---
+
