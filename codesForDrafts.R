@@ -6,7 +6,7 @@ rm(list = ls())
 # read in data ------------------------------------------------------------
 #set working directory
 
-filename="https://github.com/lallen-student/DACSS690V/raw/main/theFile.csv"
+filename="https://github.com/dviz690/final-test//raw/main/theFile.csv"
 mydata=read.csv(filename)
 
 

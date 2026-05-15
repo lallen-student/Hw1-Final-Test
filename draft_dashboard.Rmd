@@ -23,16 +23,16 @@ Preparing the dashboard based on the instructions given at @magallanes_reyes_dat
 
 ```{r}
 ## for del1Draft.rds
-#link1=""
-readRDS()
+link1="https://github.com/dviz690/final-test/raw/main/del1Draft.rds"
+readRDS(url(link1))
 ```
 
 ### Worst histogram 
 
 ```{r}
 ## for del2Draft.rds
-#link2=""
-readRDS()
+link2="https://github.com/dviz690/final-test/raw/main/del2Draft.rds"
+readRDS(url(link2))
 ```
 
 ## Column {data-width="550"}
@@ -41,8 +41,8 @@ readRDS()
 
 ```{r}
 ## for del3Draft.rds
-#link3=""
-readRDS()
+link3="https://github.com/dviz690/final-test/raw/main/del3Draft.rds"
+readRDS(url(link3))
 ```
 
 
