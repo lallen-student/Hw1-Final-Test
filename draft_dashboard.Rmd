@@ -25,7 +25,7 @@ Preparing the dashboard based on the instructions given at @magallanes_reyes_dat
 
 ```{r}
 ## for del1Draft.rds
-link1="https://github.com/dviz690/final-test/raw/main/del1Draft.rds"
+link1="https://github.com/lallen-student/Final-Test/raw/main/del1Draft.rds"
 readRDS(url(link1))
 ```
 
@@ -33,7 +33,7 @@ readRDS(url(link1))
 
 ```{r}
 ## for del2Draft.rds
-link2="https://github.com/dviz690/final-test/raw/main/del2Draft.rds"
+link2="https://github.com/lallen-student/Final-Test/raw/main/del2Draft.rds"
 readRDS(url(link2))
 ```
 
