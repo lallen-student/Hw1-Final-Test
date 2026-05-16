@@ -29,7 +29,7 @@ link1="https://github.com/lallen-student/Final-Test/raw/main/del1Draft.rds"
 readRDS(url(link1))
 ```
 
-### Worst histogram: Student Teacher Ratio by Count
+### Worst histogram: Student Teacher Ratio by Count 
 
 ```{r}
 ## for del2Draft.rds
