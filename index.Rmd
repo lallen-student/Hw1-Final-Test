@@ -21,7 +21,7 @@ Preparing the dashboard based on the instructions given at @magallanes_reyes_dat
 
 ## Column {data-width="450"}
 
-### Worst barplot <!-- a title for plot -->
+### Worst barplot: Locale by Count
 
 ```{r}
 ## for del1Draft.rds
@@ -29,7 +29,7 @@ link1="https://github.com/lallen-student/Final-Test/raw/main/del1Draft.rds"
 readRDS(url(link1))
 ```
 
-### Worst histogram
+### Worst histogram: Student Teacher Ratio by Count
 
 ```{r}
 ## for del2Draft.rds
@@ -43,6 +43,6 @@ readRDS(url(link2))
 
 ```{r}
 ## for del3Draft.rds
-link3="https://github.com/dviz690/final-test/raw/main/del3Draft.rds"
+link3="https://github.com/lallen-student/Final-Test/raw/main/del3Draft.rds"
 readRDS(url(link3))
 ```
